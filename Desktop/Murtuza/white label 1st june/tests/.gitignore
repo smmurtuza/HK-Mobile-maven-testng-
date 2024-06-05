@@ -1,0 +1,42 @@
+# System directories and files
+Application Data/
+Cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+.android/
+.appium/
+.bash_history
+.cache/
+.codeium/
+.eclipse/
+.emulator_console_auth_token
+.gitconfig
+.gradle/
+.lemminx/
+.lesshst
+.m2/
+.node_repl_history
+.p2/
+.vscode/
+.yarnrc
+
+# Exclude specific files and directories
+3D Objects/
+AndroidStudioProjects/
+AppData/
+Contacts/
+CypressAutomation/
+1. Employment Application Form.docx
+13jan apis collection/
+... (add more as needed)
+
+# Exclude all files in these directories
+**/.vscode/
+**/node_modules/
+**/build/
